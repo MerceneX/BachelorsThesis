@@ -1,3 +1,4 @@
 https://www.upwork.com/hiring/development/a-beginners-guide-to-back-end-development/
 https://assist-software.net/blog/pros-and-cons-serverless-computing-faas-comparison-aws-lambda-vs-azure-functions-vs-google
 https://www.techrepublic.com/article/serverless-computing-pros-and-cons-5-benefits-and-3-drawbacks/
+https://www.cloudflare.com/learning/serverless/serverless-javascript/
