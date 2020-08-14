@@ -1,0 +1,7 @@
+uvod razširit, dodaj kaj bo diplomsko delo zajemalo. "poglavje ena vsebuje..."
+pripiši serverless
+Razširi trenutni poglavje 2.3 (bodoče 2.4). Navedi razlike med BaaS in serverless
+Predelaj poglavje 3, loči na prednosti in slabosti, ter zajami vse ki si jih naštel
+Predelaj poglavje 4, piši bolj o tem kaj je pomembno za razvijalca enostranskih spletnih aplikacij pri delu s serverless
+Dodaj v poglavje 5, obrazložitev ocen podeljenih določenim orodjim
+Sklepe opredeli bolj tabelarično (z odstavki, alinejami) glede na to o čem govorijo

@@ -1,0 +1,5 @@
+dodaj definicijo serverless nekam + slika https://www.martinfowler.com/articles/serverless.html
+5. poglavje preimenuj - primeri rešitev samopostrežnih...
+Sklepi v točkah bolj natančno
+Navedi izboljšave, bolj nazančno kaj sem uporabil, kaj nisem itd.
+Popravi DPU - vrži ven auth
